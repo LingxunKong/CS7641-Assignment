@@ -1,0 +1,401 @@
+Description,Label
+motor failed,Motor
+motor for pump 1 failed,Motor
+motor for pump 2 failed,Motor
+Motor for reactor 2 injection pump down,Motor
+Motor for reactor evaporation pump down,Motor
+Motor for reactor injection pump failed,Motor
+Motor for reactor recycle pump down,Motor
+pump 1 motor failed,Motor
+pump 2 motor need replacement,Motor
+pump motor 2 failed,Motor
+pump motor failed,Motor
+Reactor pump main motor failure,Motor
+Reactor pump motor 1 fail,Motor
+Reactor pump motor 2 down,Motor
+Reactor pump spare motor failure,Motor
+product pump down ,pump
+pump 1 failure,pump
+pump 2 shutdown,pump
+pump 3 failure,pump
+pump 4 down,pump
+pump 5 without control valve failure,pump
+pump 6 down ,pump
+pump without motor down,pump
+pump without spare motor failure,pump
+Pump for reactor 1 fail today,Pump
+Pump for reactor 2 fail,Pump
+Pump for reactor 3 fail,Pump
+Pump for reactor down,Pump
+Pump for reactor inlet failed,Pump
+Pump for reactor 1 and 2 both failed,Pump
+Reactor 1 pump fail,Pump
+Reactor 2 pump failure,Pump
+Reactor 3 pump failure,Pump
+Reactor 4 pump failure,Pump
+Reactor 2 pump down,Pump
+Reactor 2 pump for reactor fail,Pump
+Reactor 2 pump failure,Pump
+Reactor 2 recycle pump down,Pump
+Reactor injection pump failed,Pump
+Reactor pumps failed,Pump
+Reactor recycle pump fail,Pump
+Reactor boosted pump failed ,Pump
+Reactor pump failed,Pump
+recycle pump down,pump
+recycle pump failure,pump
+Pump turned off due to reactor,Reactor 
+Reactor 1 and 2 failed yesterday,Reactor 
+Reactor 1 and 2 failed today,Reactor 
+Reactor 1 and 2 failed,Reactor 
+Reactor 1 and 2 failure,Reactor 
+Reactor 1 failed due to pump 2 turned off,Reactor 
+Reactor 1 failed due to pump 3 turned off,Reactor 
+Reactor 1 failed due to pump 4 turned off,Reactor 
+Reactor 2 down just now,Reactor 
+Reactor 2 slowdown,Reactor 
+Reactor 2 down,Reactor 
+Reactor 2 down in the evening,Reactor 
+Reactor 2 failed due to pump turned down,Reactor 
+Reactor 2 failed due to pump turned off,Reactor 
+Reactor down,Reactor 
+Reactor failed,Reactor 
+Reactor failed due to operating temperature,Reactor 
+Reactor failed due to temperature,Reactor 
+Reactor failure due to pressure,Reactor 
+Reactor failure occurred,Reactor 
+Reactor shutdown due to reasons,Reactor 
+Main reactor down,Reactor 
+Main reactor shutdown,Reactor 
+Reactor shutdown yesterday,Reactor 
+Reactor tubing crack ,Reactor 
+Main reactor tube crack ,Reactor 
+Reactor tubes crack ,Reactor 
+Reactor tube cracked,Reactor 
+Reactor 1 down due to people,Reactor 
+Reactor 1 down due to pressure,Reactor 
+Reactor 1 down due to temperature,Reactor 
+Reactor 1 down in the morning,Reactor 
+Reactor without spare pump failed,Reactor 
+Shut down reactor 1 due to failure,Reactor 
+Shut down reactor 2 due to failure,Reactor 
+Shut down reactor 3 due to failure,Reactor 
+Shut down reactor 4 due to failure,Reactor 
+vessel cracked,Reactor 
+vessel cracked due to valve not open ,Reactor 
+vessel cracking due to valve closed by operator,Reactor 
+vessel cracking observed,Reactor 
+vessel cracking problem,Reactor 
+control valve for reactor 2 recycle pump fialed,valve
+control valve for reactor recycle pump failed,valve
+pump 1 valve failed,valve
+Pump motor control valve for reactor 1 fail,valve
+Pump motor control valve for reactor 2 fail,valve
+Pump motor control valve for reactor 3 fail,valve
+Pump motor control valve for reactor 3 failed,valve
+pump outlet valve failed,valve
+pump valve failed,valve
+reactor control valve failed,valve
+Reactor 1 bottom valve fail,valve
+reactor 1 control valve failed,valve
+Reactor 2 bottom valve fail,valve
+Reactor 2 bottom valve issues,valve
+Reactor 2 bottom valve issue,valve
+Reactor 2 middle valve issue,valve
+reactor 2 control valve failed,valve
+Reactor 3 bottom valve fail,valve
+Reactor bottom valve down,valve
+Reactor bottom valve fail,valve
+Reactor bottom valve failure,valve
+reactor level control valve failed,valve
+Reactor top valve electrical problem,valve
+Reactor top valve problem,valve
+Main Reactor top valve problem,valve
+Reactor 1 top valve problem,valve
+Reactor 2 top valve problem,valve
+Reactor 3 top valve problem,valve
+Reactor valve misfunction reason 1,valve
+Reactor valve misfunction reason 2,valve
+Reactor valve misfunction reason 3,valve
+Reactor valve misfunction due to 1,valve
+Reactor valve misfunction due to 2,valve
+Reactor valve misfunction reason 4,valve
+valve for reactor 1 injection pump failed,valve
+Valve for reactor 1 inlet pump fail ,valve
+Valve for reactor 1 inlet pump failed,valve
+Valve for reactor 1 inlet pump failure,valve
+Valve for reactor 2 inlet pump down,valve
+Valve for reactor 2 inlet pump failure,valve
+Valve for reactor 2 inlet pump fail,valve
+Valve for reactor 2 inlet pump failed,valve
+valve for reactor outlet pump down,valve
+Valve for reactor 1 outlet pump fail,valve
+Valve for reactor 1 outlet pump failure,valve
+Valve for reactor 1 outlet pump down,valve
+motor 1 failed,Motor
+motor 2 failed,Motor
+motor 3 failed,Motor
+motor 4 failed,Motor
+motor 5 failed,Motor
+motor 6 failed,Motor
+pump 1 motor 1 failed,Motor
+pump 2 motor 1 failed,Motor
+pump 3 motor 1 failed,Motor
+pump 4 motor 1 failed,Motor
+pump 5 motor 1 failed,Motor
+Reactor pump 1 motor 1 fail,Motor
+Reactor pump 2 motor 2 down,Motor
+Reactor pump 3 motor 1 fail,Motor
+Reactor pump 4 motor 2 down,Motor
+Reactor pump spare motor 1 failure,Motor
+Reactor pump spare motor 2 failure,Motor
+Reactor pump spare motor 3 failure,Motor
+Reactor pump spare motor 4 failure,Motor
+Reactor pump spare motor 5 failure,Motor
+pump 2 motor 3 need replacement,Motor
+pump 2 motor 4 need replacement,Motor
+pump 2 motor 1 need replacement,Motor
+pump 2 motor 2 need replacement,Motor
+pump 2 motor 5 need replacement,Motor
+Motor 1 for reactor 2 injection pump down,Motor
+Motor 2 for reactor 2 injection pump down,Motor
+Motor 3 for reactor 2 injection pump down,Motor
+Motor 4 for reactor 2 injection pump down,Motor
+Motor 5 for reactor 2 injection pump down,Motor
+Motor 1 for reactor 1 injection pump down,Motor
+Motor 2 for reactor 1 injection pump down,Motor
+Motor 3 for reactor 1 injection pump down,Motor
+Motor 4 for reactor 1 injection pump down,Motor
+Motor 5 for reactor 1 injection pump down,Motor
+Reactor 1 pump 1 fail,Pump
+Reactor 2 pump 1 failure,Pump
+Reactor 3 pump 1failure,Pump
+Reactor 4 pump 1 failure,Pump
+Reactor 2 pump 1 down,Pump
+Reactor 2 pump 1 for reactor fail,Pump
+Reactor 1 pump 2 fail,Pump
+Reactor 2 pump 2 failure,Pump
+Reactor 3 pump 2 failure,Pump
+Reactor 4 pump 2 failure,Pump
+Reactor 2 pump 2 down,Pump
+Reactor 2 pump 2 for reactor fail,Pump
+pump 1 without motor down,pump
+pump 1 without spare motor failure,pump
+pump 2 without motor down,pump
+pump 2 without spare motor failure,pump
+pump 3 without motor down,pump
+pump 3 without spare motor failure,pump
+pump 4 without motor down,pump
+pump 4 without spare motor failure,pump
+pump 1 without control valve failure,pump
+pump 2 without control valve failure,pump
+pump 3 without control valve failure,pump
+pump 4 without control valve failure,pump
+Reactor 1 pump 1 fail 1,Pump
+Reactor 2 pump 1 failure 1,Pump
+Reactor 3 pump 1failure 1,Pump
+Reactor 4 pump 1 failure 1,Pump
+Reactor 2 pump 1 down 1,Pump
+Reactor 2 pump 1 for reactor fail 1,Pump
+Reactor 1 pump 2 fail 1,Pump
+Reactor 2 pump 2 failure 1,Pump
+Reactor 3 pump 2 failure 1,Pump
+Reactor 4 pump 2 failure 1,Pump
+Reactor 2 pump 2 down 1,Pump
+Reactor 2 pump 2 for reactor fail 1,Pump
+pump 1 without motor down 1,pump
+pump 1 without spare motor failure 1,pump
+pump 2 without motor down 1,pump
+pump 2 without spare motor failure 1,pump
+pump 3 without motor down 1,pump
+pump 3 without spare motor failure 1,pump
+pump 4 without motor down 1,pump
+pump 4 without spare motor failure 1,pump
+pump 1 without control valve failure 1,pump
+pump 2 without control valve failure 1,pump
+pump 3 without control valve failure 1,pump
+pump 4 without control valve failure 1,pump
+product pump down 1,pump
+pump 1 failure 1,pump
+pump 2 shutdown 1,pump
+pump 3 failure 1,pump
+pump 4 down 1,pump
+pump 5 without control valve  1,pump
+pump 6 down 1,pump
+pump without motor down 1,pump
+pump without spare motor failure 1,pump
+Pump for reactor 1 fail today 1,Pump
+Pump for reactor 2 fail 1,Pump
+Pump for reactor 3 fail 1,Pump
+Pump for reactor down 1,Pump
+Pump for reactor inlet failed 1,Pump
+Pump for reactor 1 and 2 both failed 1,Pump
+Reactor 1 pump fail 1,Pump
+Reactor 2 pump failure 1,Pump
+Reactor 3 pump failure 1,Pump
+motor failed 1,Motor
+motor for pump 1 failed 1,Motor
+motor for pump 2 failed 1,Motor
+Motor for reactor 2 injection pump down 1,Motor
+Motor for reactor evaporation pump down 1,Motor
+Motor for reactor injection pump failed 1,Motor
+Motor for reactor recycle pump down 1,Motor
+pump 1 motor failed 1,Motor
+pump 2 motor need replacement 1,Motor
+pump motor 2 failed 1,Motor
+pump motor failed 1,Motor
+Reactor pump main motor failure 1,Motor
+Reactor pump motor 1 fail 1,Motor
+Reactor pump motor 2 down 1,Motor
+Reactor pump spare motor failure 1,Motor
+motor 1 failed 1,Motor
+motor 2 failed 1,Motor
+motor 3 failed 1,Motor
+motor 4 failed 1,Motor
+motor 5 failed 1,Motor
+motor 6 failed 1,Motor
+pump 1 motor 1 failed 1,Motor
+pump 2 motor 1 failed 1,Motor
+pump 3 motor 1 failed 1,Motor
+pump 4 motor 1 failed 1,Motor
+pump 5 motor 1 failed 1,Motor
+Reactor pump 3 motor 1 fail 2,Motor
+Reactor pump 4 motor 2 down 2,Motor
+Reactor pump spare motor 1 failure 2,Motor
+Reactor pump spare motor 2 failure 2,Motor
+Reactor pump spare motor 3 failure 2,Motor
+Reactor pump spare motor 4 failure 2,Motor
+Reactor pump spare motor 5 failure 2,Motor
+pump 2 motor 3 need replacement 2,Motor
+pump 2 motor 4 need replacement 2,Motor
+pump 2 motor 1 need replacement 2,Motor
+pump 2 motor 2 need replacement 2,Motor
+pump 2 motor 5 need replacement 2,Motor
+Motor 1 for reactor 2 injection pump down 2,Motor
+Motor 2 for reactor 2 injection pump down 2,Motor
+Motor 3 for reactor 2 injection pump down 2,Motor
+Motor 4 for reactor 2 injection pump down 2,Motor
+Motor 5 for reactor 2 injection pump down 2,Motor
+Motor 1 for reactor 1 injection pump down 2,Motor
+Motor 2 for reactor 1 injection pump down 2,Motor
+Motor 3 for reactor 1 injection pump down 2,Motor
+Motor 4 for reactor 1 injection pump down 2,Motor
+Motor 5 for reactor 1 injection pump down 2,Motor
+Pump turned off due to reactor 1,Reactor 
+Reactor 1 and 2 failed yesterday 1,Reactor 
+Reactor 1 and 2 failed today 1,Reactor 
+Reactor 1 and 2 failed 1,Reactor 
+Reactor 1 and 2 failure 1,Reactor 
+Reactor 1 failed due to pump 2 turned off 1,Reactor 
+Reactor 1 failed due to pump 3 turned off 1,Reactor 
+Reactor 1 failed due to pump 4 turned off 1,Reactor 
+Reactor 2 down just now 1,Reactor 
+Reactor 2 slowdown 1,Reactor 
+Reactor 2 down 1,Reactor 
+Reactor 2 down in the evening 1,Reactor 
+Reactor 2 failed due to pump turned down 1,Reactor 
+Reactor 2 failed due to pump turned off 1,Reactor 
+Reactor down 1,Reactor 
+Reactor failed 1,Reactor 
+Reactor failed due to operating temperature 1,Reactor 
+Reactor failed due to temperature 1,Reactor 
+Reactor failure due to pressure 1,Reactor 
+Reactor failure occurred 1,Reactor 
+Reactor shutdown due to reasons 1,Reactor 
+Main reactor down 1,Reactor 
+Main reactor shutdown 1,Reactor 
+Reactor shutdown yesterday 1,Reactor 
+Reactor tubing crack 1,Reactor 
+Main reactor tube crack 1,Reactor 
+Reactor tubes crack 1,Reactor 
+Reactor tube cracked 1,Reactor 
+Reactor 1 down due to people 1,Reactor 
+Reactor 1 down due to pressure 1,Reactor 
+Reactor 1 down due to temperature 1,Reactor 
+Reactor 1 down in the morning 1,Reactor 
+Reactor without spare pump failed 1,Reactor 
+Shut down reactor 1 due to failure 1,Reactor 
+Shut down reactor 2 due to failure 1,Reactor 
+Shut down reactor 3 due to failure 1,Reactor 
+Shut down reactor 4 due to failure 1,Reactor 
+vessel cracked 1,Reactor 
+vessel cracked due to valve not open 1,Reactor 
+vessel cracking due to valve closed by operator 1,Reactor 
+vessel cracking observed 1,Reactor 
+vessel cracking problem 1,Reactor 
+Reactor tubes crack 2,Reactor 
+Reactor tube cracked 2,Reactor 
+Reactor 1 down due to people 2,Reactor 
+Reactor 1 down due to pressure 2,Reactor 
+Reactor 1 down due to temperature 2,Reactor 
+Reactor 1 down in the morning 2,Reactor 
+Reactor shutdown yesterday 3,Reactor 
+Reactor tubing crack 3,Reactor 
+Main reactor tube crack 3,Reactor 
+Reactor tubes crack 3,Reactor 
+control valve for reactor 2 recycle pump fialed 1,valve
+control valve for reactor recycle pump failed 1,valve
+pump 1 valve failed 1,valve
+Pump motor control valve for reactor 1 fail 1,valve
+Pump motor control valve for reactor 2 fail 1,valve
+Pump motor control valve for reactor 3 fail 1,valve
+Pump motor control valve for reactor 3 failed 1,valve
+pump outlet valve failed 1,valve
+pump valve failed 1,valve
+reactor control valve failed 1,valve
+Reactor 1 bottom valve fail 1,valve
+reactor 1 control valve failed 1,valve
+Reactor 2 bottom valve fail 1,valve
+Reactor 2 bottom valve issues 1,valve
+Reactor 2 bottom valve issue 1,valve
+Reactor 2 middle valve issue 1,valve
+reactor 2 control valve failed 1,valve
+Reactor 3 bottom valve fail 1,valve
+Reactor bottom valve down 1,valve
+Reactor bottom valve fail 1,valve
+Reactor bottom valve failure 1,valve
+reactor level control valve failed 1,valve
+Reactor top valve electrical problem 1,valve
+Reactor top valve problem 1,valve
+Main Reactor top valve problem 1,valve
+Reactor 1 top valve problem 1,valve
+Reactor 2 top valve problem 1,valve
+Reactor 3 top valve problem 1,valve
+Pump motor control valve for reactor 1 fail 2,valve
+Pump motor control valve for reactor 2 fail 2,valve
+Pump motor control valve for reactor 3 fail 2,valve
+Pump motor control valve for reactor 3 failed 2,valve
+pump outlet valve failed 2,valve
+pump valve failed 2,valve
+reactor control valve failed 2,valve
+Reactor 1 bottom valve fail 2,valve
+reactor 1 control valve failed 2,valve
+Reactor 2 bottom valve fail 2,valve
+Reactor 2 bottom valve issues 2,valve
+Reactor 2 bottom valve issue 2,valve
+Reactor 2 middle valve issue 2,valve
+reactor 2 control valve failed 2,valve
+Reactor 3 bottom valve fail 2,valve
+Reactor bottom valve down 2,valve
+Reactor bottom valve fail 2,valve
+Reactor bottom valve failure 2,valve
+reactor level control valve failed 2,valve
+Reactor top valve electrical problem 2,valve
+Reactor top valve problem 2,valve
+Main Reactor top valve problem 2,valve
+Reactor 1 top valve problem 2,valve
+Reactor 2 top valve problem 2,valve
+Reactor 3 top valve problem 2,valve
+Valve for reactor 1 inlet pump fail 3,valve
+Valve for reactor 1 inlet pump failed 3,valve
+Valve for reactor 1 inlet pump failure 3,valve
+Valve for reactor 2 inlet pump down 3,valve
+Valve for reactor 2 inlet pump failure 3,valve
+Valve for reactor 2 inlet pump fail 3,valve
+Valve for reactor 2 inlet pump failed 3,valve
+valve for reactor outlet pump down 3,valve
+Valve for reactor 1 outlet pump fail 3,valve
+Valve for reactor 1 outlet pump failure 3,valve
+Valve for reactor 1 outlet pump failure 4,valve
+Valve for reactor 1 outlet pump failure 5,valve
+Reactor 2 failed due to pump turned down 5,Reactor 
